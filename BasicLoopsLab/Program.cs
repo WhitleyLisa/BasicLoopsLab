@@ -43,10 +43,7 @@
 //}
 
 
-
-
-
-/// ******* DESCRIPTION BELOW OF THE DO WHILE LOOP ABOVE! *******
+/// ******* DESCRIPTION BELOW OF THE DO WHILE LOOP ABOVE! ******* REMOVE DESCRIPTION ONCE COMPLETED!
 //Description
 //Prompt the user for a number. Use a for loop to output all the numbers from that number to 0. After that loop finishes, use another loop to output all the numbers from 0 to that number.
 
@@ -64,7 +61,7 @@
 /// -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-// ******* UNCOMMENT THE BELOW TO SEE THE KEYPAD ENTRY! *******
+// ******* UNCOMMENT THE BELOW TO SEE THE KEYPAD ENTRY! ******* 
 
 
 //bool isLocked = true;
